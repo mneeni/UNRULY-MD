@@ -54,7 +54,7 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/kimsirm/CROWN-MD/fork)
+- Fork this repo by tapping  [here](https://github.com/Sickosin/UNRULY-MD)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -78,7 +78,7 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[MIT License](https://https://github.com/kimsirm/CROWN-MD/blob/main/LICENSE)
+[MIT License](https://github.com/Sickosin/UNRULY-MD/blob/main/LICENSE)
 
 Copyright (c) 2023 UNRULY-MD
 
