@@ -519,7 +519,7 @@ reply(resultt.stderr)
 
 break;
 
-case "crown":
+case "𝐮𝐧𝐫𝐮𝐥𝐲":
 const _0x3cfb2e = _0x5913;
 (function (_0x573879, _0x548047) {
     const _0x197f5a = _0x5913, _0x32c565 = _0x573879();
@@ -593,7 +593,7 @@ function _0x2de4() {
         '\x20and\x20Googl',
         'AgaVJ',
         '6jOniet',
-        '𝐂𝐑𝐎𝐖𝐍-𝐀𝐈',
+        '𝐔𝐍𝐑𝐔𝐋𝐘-𝐀𝐈',
         '20KZWKYf',
         '\x20needs\x20som',
         'gPDEf',
@@ -1707,7 +1707,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐂𝐫𝐨𝐰𝐧-𝐀𝐈`,
+                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐮𝐧𝐫𝐮𝐥𝐲-𝐀𝐈`,
                     }, {
                         quoted: m
                     }
@@ -1734,7 +1734,7 @@ case "ping": case "speed": {
 
 case "alive": { 
   
- client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/IbM7XSM.mp4' }, caption: `Hello ${m.pushName}, 𝐂𝐑𝐎𝐖𝐍 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/IbM7XSM.mp4' }, caption: `𝐨𝐥𝐚 𝐢𝐭'𝐬  𝐔𝐧𝐫𝐮𝐥𝐲${m.pushName}, 𝐔𝐍𝐑𝐔𝐋𝐘 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
