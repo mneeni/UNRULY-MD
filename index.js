@@ -151,7 +151,7 @@ async function startHisoka() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("CROWN-AI", {
+      figlet.textSync("𝐔𝐍𝐑𝐔𝐋𝐘-AI", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
