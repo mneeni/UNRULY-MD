@@ -587,7 +587,7 @@ function _0x2de4() {
         '64311OINjak',
         'catch',
         'e\x20text.\x20Th',
-        '\x20of\x20its developer 𝐒𝐢𝐫𝐦',
+        '\x20of\x20its developer unruly',
         'is\x20AI\x20work',
         '1832596QZCVhJ',
         '\x20and\x20Googl',
@@ -1875,8 +1875,8 @@ case "movie":
              } 
  break;
  
-      case "sirm": case "owner": case "sirm": 
- client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/9WyMGc4.mp4' }, caption: `Say no more 😌 here is 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 contact +923195832822 🥱` }, {quoted: m}); 
+      case "unruly": case "owner": case "unruly": 
+ client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/9WyMGc4.mp4' }, caption: `Oiii it's me again Unruly😎🥷 contact +254798214068 🥱` }, {quoted: m}); 
   
  break;
        
@@ -1979,7 +1979,7 @@ case "movie":
         case "gpt": case "g": 
           
 
-            if (!text) return reply("Hello am 𝐂𝐑𝐎𝐖𝐍 an Ai developed by 𝐒𝐢𝐫𝐦, how can I help you today?");
+            if (!text) return reply("Hello am 𝐔𝐍𝐑𝐔𝐋𝐘 an Ai developed by 𝐔𝐧𝐫𝐮𝐥𝐲, 𝐝𝐨 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐚𝐧𝐲 𝐪𝐮𝐢𝐳 𝐟𝐨𝐫 𝐦𝐞?");
 
            const configuration = new Configuration({
 
